@@ -1,4 +1,5 @@
 data/*
 experiments/*
 weights/*
+temp_*
 __pycache__*
